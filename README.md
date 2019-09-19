@@ -1,7 +1,8 @@
 # deep-clone-benchmark
 Deep clone benchmark in .NET
 
-### Result for "50000" objects running on i7 10th gen:
+### Result for "50000" objects
+Running on i7 10th gen
 
 ```
 BenchmarkBinaryDeepCloneSingle: 6 seconds     // Binary deep cloning each indivisual element in the list
