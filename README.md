@@ -1,7 +1,7 @@
 # deep-clone-benchmark
 Deep clone benchmark in .NET
 
-### Result
+### Result:
 - `50000` objects
 - Running on i7 10th gen
 
